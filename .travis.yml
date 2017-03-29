@@ -1,0 +1,11 @@
+language : c
+compiler : gcc
+before_install :
+ - echo "Before Install"
+install :
+ - echo "Install"
+script :
+ - echo "Compiling..."
+ - gcc members.c -o members
+ - echo "Running..."
+ - ./members
