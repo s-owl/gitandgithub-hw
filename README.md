@@ -1,4 +1,4 @@
-# gitandgithub-hw
+# gitandgithub-hw [![Build Status](https://travis-ci.org/skhu-sss/gitandgithub-hw.svg?branch=master)](https://travis-ci.org/skhu-sss/gitandgithub-hw)
 2017년도 Git&amp;GitHub 강의 과제용 저장소
 
 ## 과제 내용
