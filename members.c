@@ -1,4 +1,4 @@
-﻿#include<stdio.h>
+#include<stdio.h>
 
 int main(void){
   printf("Git&GitHub 강의 - 2017년도 수강생 명단\n");
@@ -11,8 +11,8 @@ int main(void){
   printf("소프트웨어공학과 201632007 김희수\n");
   printf("소프트웨어공학과 201732004 김문수\n");
   printf("소프트웨어공학과 201732015 박찬우\n");
+  printf("정보통신공학과 201633036 한나라\n");
   printf("소프트웨어공학과 201732015 장은애\n");
   printf("소프트웨어공학과 201532020 ♡송지은♡\n");
-
   return 0;
 }
